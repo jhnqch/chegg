@@ -17,7 +17,7 @@ Scrapes homework answers from chegg links sent from users via Discord.
     "token": "YOUR DISCORD BOT TOKEN"
 }
 ```
-6. In the terminal, type node index.js
+6. In the terminal, type `node index.js` to run the project
 7. Now the discord bot is up and running!
 8. In your specified channel type the command `!chegg <your-link>`
 9. Then the bot should DM the account a html file of the answer!
