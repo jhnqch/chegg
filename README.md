@@ -1,6 +1,6 @@
 # Chegg Discord Helper
 Scrapes homework answers from chegg links sent from users via Discord.
-# How to Use
+# Guide
 **NOTE: Must have Chegg Premium!**
 1. Download/clone the project.
 2. Set up discord bot in the discord developer portal and add to your server.
