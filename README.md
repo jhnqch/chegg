@@ -21,4 +21,3 @@ Scrapes homework answers from chegg links sent from users via Discord.
 7. Now the discord bot is up and running!
 8. In your specified channel type the command `!chegg <your-link>`
 9. Then the bot should DM the account a html file of the answer!
-# I have no plans on updating this
